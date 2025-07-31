@@ -5,6 +5,7 @@ A web application for **real-time email delivery checking**.
 Designed for teams that need to quickly verify whether emails land in **Inbox**, **Spam**, or are **Not Found**, with detailed analytics and user management.
 
 ---
+[![dashboard](https://github.com/sviridov-dev/email_checker/screen.png)]
 
 ## **Features**
 
